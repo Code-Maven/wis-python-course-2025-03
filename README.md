@@ -51,7 +51,8 @@ The project should be something that is useful for your studies or at least it i
 Ask in the lab where you work what needs are there that you might implement as your final project.
 You can get inspiration from the projects [listed here](https://code-maven.com/programming-bootcamp-for-scientists)
 and the [projects of the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12)
-or those of [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04).
+or those of [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04)
+and [2024 autumn semester](https://github.com/szabgab/wis-python-course-2024-11).
 
 ### Expected workload
 
