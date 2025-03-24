@@ -2,14 +2,21 @@
 
 Course number: 20253072
 
-Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15101,14800)
+* Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15101,14800)
+* Feinberg [Moodle](https://feinberg.weizmann.ac.il/)
 
-Ullmann Auditorium 101
+* Location: Ullmann Auditorium 101
 
 ## Students
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+
+
+<!--
+| []()                | [repo]()                     |  |  |  |
+-->
+
 
 ## Lecturer
 
@@ -17,7 +24,8 @@ Ullmann Auditorium 101
 
 ## Teaching Assistants
 
-* TBD
+* [Hadar Klimovski](https://hadarklimovski.github.io/)
+* [Liron Hoffman](https://liroh99.github.io/)
 
 ## Plan
 
@@ -46,13 +54,43 @@ There will be assignments after every lecture. You will submit them via GitHub. 
 ### Project
 
 Towards the end of the course you'll be asked to do a project.
-First you need to submit a proposal for the project and when it is accepted then implement it.
+First you will need to submit a proposal for the project and when it is accepted then implement it.
 The project should be something that is useful for your studies or at least it is fun for you to make.
 Ask in the lab where you work what needs are there that you might implement as your final project.
 You can get inspiration from the projects [listed here](https://code-maven.com/programming-bootcamp-for-scientists)
 and the [projects of the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12)
 or those of [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04)
 and [2024 autumn semester](https://github.com/szabgab/wis-python-course-2024-11).
+
+The idea of the project is that you write something that is going to be useful for you beyond the course. e.g. There is some manual work in your lab and this project will automate it.
+It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embasy
+and we also had games.
+
+You can even take an existing project and make some valuable improvements to that project. (e.g. one project from one of the previous courses).
+
+**How to submit your proposal?**
+
+* Create a separate repository for the project. Its name should reflect the project: (e.g. Gene-Amplification-and-SNP-Analysis) and not the the course.
+If someone looks at this repository they should see it as a real application and not "some stuff you wrote just to get the grade".
+
+* The proposal should be the README.md file of the repository. If you need to include images or data files, those should be also included in the repository.
+It should be a description that will help any future visitor of the project to understand
+
+1. What does this project do?
+1. What kind of input data it expects and what kind out output the user might expect?
+1. The technicalities: How to download it, install the dependencies, run the tests, and run the project?
+
+It would be nice if at the end of the README you mention that this was written as part of the course and link to the course repository.
+
+We understand that the project and thus the description might evolve during the implementation. That's fine. You can update the README with the new information. In the proposal we would like to see your understanding of the project before you start implementing it.
+
+Before you submit it for approval it is recommended that you send it to another student and ask if the description is clear. If that student has any questions then you probably will need to update the README to answer those questions so the next person won't need to ask.
+
+Once you are ready, open an issue on our repository linking to you project to get it approved.
+
+Once the project is approved you will implement it in the same repository. Open a new issue when you'd like the project to be graded.
+
+
 
 ### Expected workload
 
