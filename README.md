@@ -51,6 +51,12 @@ Course number: 20253072
 
 There will be assignments after every lecture. You will submit them via GitHub. I'll explain the details during the lectures.
 
+### Extensions
+
+Each assignment and the project will have dead-lines. If you need to ask for extensions, do it up-front asking your TA.
+Make their life easier and ask specify the new dead-line you need.
+
+
 ### Project
 
 Towards the end of the course you'll be asked to do a project.
