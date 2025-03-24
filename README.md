@@ -166,3 +166,13 @@ There is no need to install anything up front. We'll do that during the lectures
 
 ### Assignment (day 1)
 
+* [Watch](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
+* Create web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
+
+* Create a separate public repository for all the assignments of the course. (e.g. call it `python-course-assignments`)
+    * Create a folder called day01
+    * In the folder create a program that will print "Hello World!"
+
+Once they are ready open an issue on the GitHub repository of the course. The title of the issue should your full name and name of the assignment e.g. "Day1 by Foo Bar", in case your name is Foo Bar.
+In the issue link to the site, link to the repository of the site, and link to the repository of the assignment.
+
