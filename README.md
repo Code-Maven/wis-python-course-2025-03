@@ -5,7 +5,7 @@ Course number: 20253072
 * Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15101,14800)
 * Feinberg [Moodle](https://feinberg.weizmann.ac.il/)
 
-* Location: Ullmann Auditorium 101
+* Location: Feinberg Room B
 
 ## Students
 
@@ -156,6 +156,10 @@ You are expected to bring your own computer to the lectures.
 
 There is no need to install anything up front. We'll do that during the lectures.
 
+### Videos
+
+Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to see the video recordings on the right hand side.
+
 ## Day 1
 
 ### Plan
@@ -175,10 +179,14 @@ There is no need to install anything up front. We'll do that during the lectures
 * [Watch](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
 * Create web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
 
+* Watch the 2nd video I'll publish in a few days.
 * Create a separate public repository for all the assignments of the course. (e.g. call it `python-course-assignments`)
     * Create a folder called day01
     * In the folder create a program that will print "Hello World!"
 
-Once they are ready open an issue on the GitHub repository of the course. The title of the issue should your full name and name of the assignment e.g. "Day1 by Foo Bar", in case your name is Foo Bar.
-In the issue link to the site, link to the repository of the site, and link to the repository of the assignment.
+Once they are ready open an issue on the GitHub repository of the course. The title of the issue should contain your full name and name of the assignment e.g. "Day1 by Foo Bar",
+in case your name is Foo Bar. In the issue include the link to the site, the link to the repository of the site, and the link to the repository of the assignment.
+
+Dead-line: March 1, 23:00
+
 
