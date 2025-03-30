@@ -11,10 +11,11 @@ Course number: 20253072
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+| [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 
 
 <!--
-| []()                | [repo]()                     |  |  |  |
+| []()                | [repo]()                     | [repo]() |  |  |
 -->
 
 
