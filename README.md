@@ -13,6 +13,7 @@ Course number: 20253072
 | --------- | ---- | ----------- | ------- | ------ |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
+| [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) |  |  |
 
 
 <!--
