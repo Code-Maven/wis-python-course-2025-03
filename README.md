@@ -193,6 +193,6 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 Once they are ready open an issue on the GitHub repository of the course. The title of the issue should contain your full name and name of the assignment e.g. "Day1 by Foo Bar",
 in case your name is Foo Bar. In the issue include the link to the site, the link to the repository of the site, and the link to the repository of the assignment.
 
-Dead-line: March 1, 23:00
+Dead-line: April 1, 23:00
 
 
