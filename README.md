@@ -16,6 +16,7 @@ Course number: 20253072
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
 | [Sophie Piwko](https://sophiepiwko.github.io/)         | [repo](https://github.com/SophiePiwko/SophiePiwko.github.io)             | [repo](https://github.com/SophiePiwko/python-course-assignments) |  |  |
 | [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) |  |  |
+| [Yovel Edri](https://yoveledri.github.io/)             | [repo](https://github.com/Yoveledri/Yoveledri.github.io)                 | [repo](https://github.com/Yoveledri/python-course-assignments) |  |  |
 
 
 <!--
