@@ -20,6 +20,7 @@ Course number: 20253072
 | [Kedar Waychal](https://waychalkedar.github.io/)       | [repo](https://github.com/waychalkedar/waychalkedar.github.io)           | [repo](https://github.com/waychalkedar/python-course-assignments) |  |  |
 | [Maya Salomon](https://mayasalo.github.io/)            | [repo](https://github.com/MayaSalo/MayaSalo.github.io)                   | [repo](https://github.com/MayaSalo/python-course-assignments) |  |  |
 | [Maya Skolozub](https://mayak1988.github.io/)          | [repo](https://github.com/mayak1988/mayak1988.github.io)                 | [repo](https://github.com/mayak1988/python-course-assignments) |  |  |
+| [Michal Zamberg Elad](https://michalzamberg.github.io/)| [repo](https://github.com/MichalZamberg/MichalZamberg.github.io)         | [repo](https://github.com/MichalZamberg/python-course-assignments) |  |  |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 | [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
