@@ -11,6 +11,7 @@ Course number: 20253072
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+| [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 | [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
