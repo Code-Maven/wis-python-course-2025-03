@@ -15,6 +15,7 @@ Course number: 20253072
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Dana Brosh](https://danabrosh.github.io/)             | [repo](https://github.com/danabrosh/danabrosh.github.io)                 | [repo](https://github.com/danabrosh/python-assignments) |  |  |
+| [Gaya Granot](https://gaya424.github.io/)              | [repo](https://github.com/gaya424/gaya424.github.io)                     | [repo](https://github.com/gaya424/Python_course_assignments) |  |  |
 | [Giulia Carradori](https://carra99.github.io/)         | [repo](https://github.com/Carra99/carra99.github.io)                     | [repo](https://github.com/Carra99/python-course-assignments) |  |  |
 | [Kedar Waychal](https://waychalkedar.github.io/)       | [repo](https://github.com/waychalkedar/waychalkedar.github.io)           | [repo](https://github.com/waychalkedar/python-course-assignments) |  |  |
 | [Maya Skolozub](https://mayak1988.github.io/)          | [repo](https://github.com/mayak1988/mayak1988.github.io)                 | [repo](https://github.com/mayak1988/python-course-assignments) |  |  |
