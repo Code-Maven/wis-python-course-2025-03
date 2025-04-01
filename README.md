@@ -12,6 +12,7 @@ Course number: 20253072
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
+| [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Dana Brosh](https://danabrosh.github.io/)             | [repo](https://github.com/danabrosh/danabrosh.github.io)                 | [repo](https://github.com/danabrosh/python-assignments) |  |  |
 | [Giulia Carradori](https://carra99.github.io/)         | [repo](https://github.com/Carra99/carra99.github.io)                     | [repo](https://github.com/Carra99/python-course-assignments) |  |  |
