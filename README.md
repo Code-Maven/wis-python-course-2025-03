@@ -14,6 +14,7 @@ Course number: 20253072
 | [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Dana Brosh](https://danabrosh.github.io/)             | [repo](https://github.com/danabrosh/danabrosh.github.io)                 | [repo](https://github.com/danabrosh/python-assignments) |  |  |
+| [Giulia Carradori](https://carra99.github.io/)         | [repo](https://github.com/Carra99/carra99.github.io)                     | [repo](https://github.com/Carra99/python-course-assignments) |  |  |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 | [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
