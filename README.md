@@ -13,6 +13,7 @@ Course number: 20253072
 | --------- | ---- | ----------- | ------- | ------ |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
+| [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
 | [Sophie Piwko](https://sophiepiwko.github.io/)         | [repo](https://github.com/SophiePiwko/SophiePiwko.github.io)             | [repo](https://github.com/SophiePiwko/python-course-assignments) |  |  |
 | [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) |  |  |
