@@ -23,6 +23,7 @@ Course number: 20253072
 | [Maya Skolozub](https://mayak1988.github.io/)          | [repo](https://github.com/mayak1988/mayak1988.github.io)                 | [repo](https://github.com/mayak1988/python-course-assignments) |  |  |
 | [Michal Zamberg Elad](https://michalzamberg.github.io/)| [repo](https://github.com/MichalZamberg/MichalZamberg.github.io)         | [repo](https://github.com/MichalZamberg/python-course-assignments) |  |  |
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
+| [Paramita Manna](https://paramitamanna.github.io/)     | [repo](https://github.com/ParamitaManna/ParamitaManna.github.io)         | [repo](https://github.com/ParamitaManna/python-course-assignments) |  |  |
 | [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
 | [Sophie Piwko](https://sophiepiwko.github.io/)         | [repo](https://github.com/SophiePiwko/SophiePiwko.github.io)             | [repo](https://github.com/SophiePiwko/python-course-assignments) |  |  |
