@@ -18,6 +18,7 @@ Course number: 20253072
 | [Coral Shalmoni](https://coralshalmoni.github.io/)     | [repo](https://github.com/CoralShalmoni/CoralShalmoni.github.io)         | [repo](https://github.com/CoralShalmoni/python-course-assignments) |  |  |
 | [Dana Brosh](https://danabrosh.github.io/)             | [repo](https://github.com/danabrosh/danabrosh.github.io)                 | [repo](https://github.com/danabrosh/python-assignments) |  |  |
 | [Elizabeth Popov](https://elizabethpopov.github.io/elizabethp.github.io/) | [repo](https://github.com/ElizabethPopov/elizabethp.github.io) | [repo](https://github.com/ElizabethPopov/python-course-assignments) |  |  |
+| [Emmanuel Amzallag](https://manu514972.github.io/)     | [repo](https://github.com/Manu514972/Manu514972.github.io)               | [repo](https://github.com/Manu514972/python-course-assignments/) |  |  |
 | [Gaya Granot](https://gaya424.github.io/)              | [repo](https://github.com/gaya424/gaya424.github.io)                     | [repo](https://github.com/gaya424/Python_course_assignments) |  |  |
 | [Giulia Carradori](https://carra99.github.io/)         | [repo](https://github.com/Carra99/carra99.github.io)                     | [repo](https://github.com/Carra99/python-course-assignments) |  |  |
 | [Inbal Naveh](https://theinbal.github.io/)             | [repo](https://github.com/TheInbal/TheInbal.github.io/)                  | [repo](https://github.com/TheInbal/python-course-assignments-2025) |  |  |
