@@ -21,6 +21,7 @@ Course number: 20253072
 | [Gaya Granot](https://gaya424.github.io/)              | [repo](https://github.com/gaya424/gaya424.github.io)                     | [repo](https://github.com/gaya424/Python_course_assignments) |  |  |
 | [Giulia Carradori](https://carra99.github.io/)         | [repo](https://github.com/Carra99/carra99.github.io)                     | [repo](https://github.com/Carra99/python-course-assignments) |  |  |
 | [Kedar Waychal](https://waychalkedar.github.io/)       | [repo](https://github.com/waychalkedar/waychalkedar.github.io)           | [repo](https://github.com/waychalkedar/python-course-assignments) |  |  |
+| [Lee Halevi](https://leehalevi.github.io/)             | [repo](https://github.com/leehalevi/leehalevi.github.io)                 | [repo](https://github.com/leehalevi/python-course-assignments) |  |  |
 | [Maya Salomon](https://mayasalo.github.io/)            | [repo](https://github.com/MayaSalo/MayaSalo.github.io)                   | [repo](https://github.com/MayaSalo/python-course-assignments) |  |  |
 | [Maya Skolozub](https://mayak1988.github.io/)          | [repo](https://github.com/mayak1988/mayak1988.github.io)                 | [repo](https://github.com/mayak1988/python-course-assignments) |  |  |
 | [Michal Zamberg Elad](https://michalzamberg.github.io/)| [repo](https://github.com/MichalZamberg/MichalZamberg.github.io)         | [repo](https://github.com/MichalZamberg/python-course-assignments) |  |  |
