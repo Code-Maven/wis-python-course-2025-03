@@ -40,7 +40,7 @@ Course number: 20253072
 | [Uri Monsonego](https://urimons.github.io/)            | [repo](https://github.com/urimons/urimons.github.io)                     | [repo](https://github.com/urimons/python-course-assignments/) |  |  |
 | [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) |  |  |
 | [Yovel Edri](https://yoveledri.github.io/)             | [repo](https://github.com/Yoveledri/Yoveledri.github.io)                 | [repo](https://github.com/Yoveledri/python-course-assignments) |  |  |
-
+| [Amit Paz](https://amit-paz7.github.io/)               | [repo](https://github.com/amit-paz7/amit-paz7.github.io)                 | [repo](https://github.com/amit-paz7/python-course-assignments) |  |  |
 
 <!--
 | []()                | [repo]()                     | [repo]() |  |  |
