@@ -228,7 +228,7 @@ Dead-line: ~~April 1, 23:00~~ April 3, 23:00
 
 * In the repository of your assignments create a folder called `day02` and put your solutions in that folder.
 * Write a program called `circle.py` that will ask the user for the radius of the circle and will print the area and the circumeference of the circle.
-* Write a program called `rectangle.py` that will ask the user for `height` and `width` and calculate the area and the circumference of the rectangle.
+* Write a program called `rectangle.py` that will ask the user for `height` and `width` and calculate the area and the perimeter of the rectangle.
 
 * You will have to use the `int()` or the `float()` function to convert tha data you received from the user to an `int` or `float` in your program.
 
