@@ -12,6 +12,7 @@ Course number: 20253072
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
+| [Amit Paz](https://amit-paz7.github.io/)               | [repo](https://github.com/amit-paz7/amit-paz7.github.io)                 | [repo](https://github.com/amit-paz7/python-course-assignments) |  |  |
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
 | [Aviel Rosenbaum](https://avielros.github.io/)         | [repo](https://github.com/avielros/avielros.github.io)                   | [repo](https://github.com/avielros/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
@@ -40,7 +41,6 @@ Course number: 20253072
 | [Uri Monsonego](https://urimons.github.io/)            | [repo](https://github.com/urimons/urimons.github.io)                     | [repo](https://github.com/urimons/python-course-assignments/) |  |  |
 | [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) |  |  |
 | [Yovel Edri](https://yoveledri.github.io/)             | [repo](https://github.com/Yoveledri/Yoveledri.github.io)                 | [repo](https://github.com/Yoveledri/python-course-assignments) |  |  |
-| [Amit Paz](https://amit-paz7.github.io/)               | [repo](https://github.com/amit-paz7/amit-paz7.github.io)                 | [repo](https://github.com/amit-paz7/python-course-assignments) |  |  |
 
 <!--
 | []()                | [repo]()                     | [repo]() |  |  |
