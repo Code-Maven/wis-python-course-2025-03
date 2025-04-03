@@ -32,6 +32,7 @@ Course number: 20253072
 | [Noam Weil](https://noamwac.github.io/)                | [repo](https://github.com/NoamWAc/noamwac.github.io)                     | [repo](https://github.com/NoamWAc/Python-Assignments) |  |  |
 | [Paramita Manna](https://paramitamanna.github.io/)     | [repo](https://github.com/ParamitaManna/ParamitaManna.github.io)         | [repo](https://github.com/ParamitaManna/python-course-assignments) |  |  |
 | [Priel Siman-Tov](https://priel-st.github.io/)         | [repo](https://github.com/priel-st/priel-st.github.io)                   | [repo](https://github.com/priel-st/python-course-assignments) |  |  |
+| [Ruthie Surujon](https://ruthiesu.github.io/)          | [repo](https://github.com/ruthiesu/ruthiesu.github.io)                   | [repo](https://github.com/ruthiesu/python-course-assignments) |  |  |
 | [Sagi Maor](https://sagimaor.github.io/)               | [repo](https://github.com/SagiMaor/SagiMaor.github.io)                   | [repo](https://github.com/SagiMaor/python-course-assignments) |  |  |
 | [Shani Rochell](https://shaniroc.github.io/)           | [repo](https://github.com/shaniroc/shaniroc.github.io)                   | [repo](https://github.com/shaniroc/python-course-assignments) |  |  |
 | [Sophie Piwko](https://sophiepiwko.github.io/)         | [repo](https://github.com/SophiePiwko/SophiePiwko.github.io)             | [repo](https://github.com/SophiePiwko/python-course-assignments) |  |  |
