@@ -13,6 +13,7 @@ Course number: 20253072
 | --------- | ---- | ----------- | ------- | ------ |
 | [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
+| [Aviel Rosenbaum](https://avielros.github.io/)         | [repo](https://github.com/avielros/avielros.github.io)                   | [repo](https://github.com/avielros/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Chen Weller](https://chenweller.github.io/)           | [repo](https://github.com/ChenWeller/ChenWeller.github.io)               | [repo](https://github.com/ChenWeller/python-course-assignments/tree/main) |  |  |
 | [Coral Shalmoni](https://coralshalmoni.github.io/)     | [repo](https://github.com/CoralShalmoni/CoralShalmoni.github.io)         | [repo](https://github.com/CoralShalmoni/python-course-assignments) |  |  |
