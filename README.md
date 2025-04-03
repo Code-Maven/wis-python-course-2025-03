@@ -187,8 +187,6 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 
 ## Day 1
 
-### Plan
-
 * Self introduction
 * Overview of the course
 * Programming
@@ -206,7 +204,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 
 * [Watch the 2nd video](https://git.code-maven.com/using-git-on-windows-in-vs-code).
 * Create a separate public repository for all the assignments of the course. (e.g. call it `python-course-assignments`)
-    * Create a folder called day01
+    * Create a folder called `day01`
     * In the folder create a program that will print "Hello World!"
 
 Once they are ready open an issue on the GitHub repository of the course. The title of the issue should contain your full name and name of the assignment e.g. "Day1 by Foo Bar",
@@ -214,4 +212,23 @@ in case your name is Foo Bar. In the issue include the link to the site, the lin
 
 Dead-line: ~~April 1, 23:00~~ April 3, 23:00
 
+## Day 2
+
+* [Biopython](https://biopython.org/) project, issues.
+* Computer architecture (memory vs hard-disk), filesystem
+* Continue the First Steps chapter (till Floating point limitations)
+
+* Someone should have mentioned in class that I mistakenly let co-pilot write `weight` instead of `width` and that's why it wanted to compute my BMI intead of the area of the rectangle.
+
+## Assignment (day 2)
+
+* In the repository of your assignments create a folder called `day02` and put your solutions in that folder.
+* Write a program called `circle.py` that will ask the user for the radius of the circle and will print the area and the circumeference of the circle.
+* Write a program called `rectangle.py` that will ask the user for `height` and `width` and calculate the area and the circumference of the rectangle.
+
+* You will have to use the `int()` or the `float()` function to convert tha data you received from the user to an `int` or `float` in your program.
+
+* Once you are done, open an issue on our repository in whch the subject includes your full name and the number of the assignment so the TAs will be able to handle it. Include a link to the repository of your assignments.
+
+Dead-line: April 8, 23:00
 
