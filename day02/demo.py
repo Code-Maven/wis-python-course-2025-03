@@ -1,2 +1,2 @@
-greeting = "Hello, World again!"
+greeting = "Hello, World"
 print(greeting)
