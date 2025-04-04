@@ -13,6 +13,7 @@ Course number: 20253072
 | --------- | ---- | ----------- | ------- | ------ |
 | [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
 | [Amit Paz](https://amit-paz7.github.io/)               | [repo](https://github.com/amit-paz7/amit-paz7.github.io)                 | [repo](https://github.com/amit-paz7/python-course-assignments) |  |  |
+| [Anastasia Paz](https://nastiaphub.github.io/)         | [repo](https://github.com/nastiaphub/nastiaphub.github.io)               | [repo](https://github.com/nastiaphub/python-course-assignments) |  |  |
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
 | [Andrei Sarenko](https://andreisrnk.github.io/)        | [repo](https://github.com/andreisrnk/andreisrnk.guthub.io)               | [repo](https://github.com/andreisrnk/python-course-assignments) |  |  |
 | [Aviel Rosenbaum](https://avielros.github.io/)         | [repo](https://github.com/avielros/avielros.github.io)                   | [repo](https://github.com/avielros/python-course-assignments) |  |  |
