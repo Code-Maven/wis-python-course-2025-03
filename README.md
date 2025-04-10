@@ -242,3 +242,35 @@ Dead-line: ~~April 1, 23:00~~ April 3, 23:00
 
 Dead-line: April 8, 23:00
 
+## Day 3
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* End of "First steps"
+* "Second steps"
+* Numbers
+
+
+## Assignment (day 3)
+
+### Task 1
+
+* Open issues on the repository of the web site of 2 students. In order to make sure every student receives issues, first open for student who do not yet have issues or only have 1 issue opened. In the issue write down what you like and what improvement you'd like to see. Mention the TAs and my by including our GitHub user ideas with an `@` mark. E.g. `@szabgab` will notify me about the issue.
+* When you receive an issue, comment on it. Decide if you'd like to implement the suggestions and one you implemented it or if you decide you don't want to do that, close the issue.
+* The goal here is to have some experience with GitHub issues and to improve your web sites.
+* I recommend you collaborate with each other. Feel free to pick a random student and ask her/him to work on this together in-person or via a zoom session.
+
+### Task 2
+
+In a folder called `day03`
+
+* [Level 0 of the number guessing game](https://slides.code-maven.com/python/exercise-number-guessing-game-0.html)
+
+### Task 3
+
+* Copy the `circle.py` and `rectangle.py` from `day02` to `day03` and change both of them to get the values one the command line (using `sys.argv`) intead of waiting for `input`.
+
+
+Dead-line: April 23, 21:00
+
+
