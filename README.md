@@ -18,6 +18,7 @@ Course number: 20253072
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
 | [Andrei Sarenko](https://andreisrnk.github.io/)        | [repo](https://github.com/andreisrnk/andreisrnk.guthub.io)               | [repo](https://github.com/andreisrnk/python-course-assignments) |  |  |
 | [Aviel Rosenbaum](https://avielros.github.io/)         | [repo](https://github.com/avielros/avielros.github.io)                   | [repo](https://github.com/avielros/python-course-assignments) |  |  |
+| [Beatrice Mereshensky](https://beatrice-weizmann.github.io/)              | [repo](https://github.com/beatrice-weizmann/beatrice-weizmann.github.io)  | [repo](https://github.com/beatrice-weizmann/python-course-assignments) |  |  |
 | [Benel Levy](https://benellylevy.github.io/)           | [repo](https://github.com/benellylevy/benellylevy.github.io)             | [repo](https://github.com/benellylevy/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Chen Weller](https://chenweller.github.io/)           | [repo](https://github.com/ChenWeller/ChenWeller.github.io)               | [repo](https://github.com/ChenWeller/python-course-assignments/tree/main) |  |  |
