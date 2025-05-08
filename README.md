@@ -274,3 +274,18 @@ In a folder called `day03`
 Dead-line: April 23, 21:00
 
 
+## Day 4
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* Comparison and Boolean
+* Strings
+* Loops
+
+## Assignment (day 4)
+
+* [Number guessing game](https://slides.code-maven.com/python/exercise-number-guessing-game.html)
+
+Dead-line: May 15, 21:00
+
+
