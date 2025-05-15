@@ -288,4 +288,21 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 Dead-line: May 15, 21:00
 
+## Day 5
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* Formatted strings
+* Lists
+* Tuples
+
+## Assignment (day 5)
+
+* [dna sequences](https://slides.code-maven.com/python/exercise-dna-sequencing.html)
+* [Count digits](https://slides.code-maven.com/python/exercise-count-digits.html)
+* [Count words](https://slides.code-maven.com/python/exercise-count-words-in-list.html)
+
+
+Dead-line: May 22, 21:00
+
 
