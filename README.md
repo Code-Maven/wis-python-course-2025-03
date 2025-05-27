@@ -305,4 +305,22 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 Dead-line: May 22, 21:00
 
+## Day 6
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* Files
+* YAML
+* JSON
+* beginning of the Biopython chapter
+
+## Assignment (day 6)
+
+* [ROT13 of a file](https://slides.code-maven.com/python/exercise-rot13-files.html)
+* [Count digits](https://slides.code-maven.com/python/exercise-count-digits-in-file.html)
+* [Color selector](https://slides.code-maven.com/python/exercise-file-color-selector.html) based on [this](https://slides.code-maven.com/python/exercise-menu.html)
+
+
+Dead-line: June 4, 21:00
+
 
