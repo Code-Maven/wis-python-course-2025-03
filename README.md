@@ -80,6 +80,7 @@ Course number: 20253072
 * [Day 7](#Day-7) 2025.05.29 9:00-12:00
 * [Day 8](#Day-8) 2025.06.05 9:00-12:00
 * [Day 9](#Day-9) 2025.06.12 9:00-12:00
+* [Day 10](#Day-10) 2025.06.26 9:00-12:00
 
 
 ### Assignments
@@ -323,6 +324,26 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 Dead-line: June 4, 21:00
 
+## Day 7
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* Dictionaries
+* Sets
+* Code-reuse
+* Functions
+
+## Assignment (day 7)
+
+* [count words from a file](https://slides.code-maven.com/python/exercise-count-words-in-file.html)
+* [Count Amino Acids](https://slides.code-maven.com/python/exercise-count-amino-acids.html)
+* [Refactor previous solutions to use functions](https://slides.code-maven.com/python/exercise-refactor-previous-solutions-to-us-functions.html)
+
+Dead-line: June 8, 21:00
+
+## Project
+
+For detailed desciption see above.
 
 Project proposal dead-line: June 12, 21:00
 
