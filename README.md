@@ -324,3 +324,7 @@ Covered [chapters](https://slides.code-maven.com/python/)
 Dead-line: June 4, 21:00
 
 
+Project proposal dead-line: June 12, 21:00
+
+Project submission dead-line: July 3, 21:00
+
