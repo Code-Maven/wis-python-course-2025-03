@@ -22,7 +22,7 @@ Course number: 20253072
 | [Benel Levy](https://benellylevy.github.io/)           | [repo](https://github.com/benellylevy/benellylevy.github.io)             | [repo](https://github.com/benellylevy/python-course-assignments) |  |  |
 | [Chen Bibi](https://chenbibi2.github.io/)              | [repo](https://github.com/chenbibi2/chenbibi2.github.io)                 | [repo](https://github.com/chenbibi2/python-course-assignments) |  |  |
 | [Chen Weller](https://chenweller.github.io/)           | [repo](https://github.com/ChenWeller/ChenWeller.github.io)               | [repo](https://github.com/ChenWeller/python-course-assignments/tree/main) |  |  |
-| [Coral Shalmoni](https://coralshalmoni.github.io/)     | [repo](https://github.com/CoralShalmoni/CoralShalmoni.github.io)         | [repo](https://github.com/CoralShalmoni/python-course-assignments) |  |  |
+| [Coral Shalmoni](https://coralshalmoni.github.io/)     | [repo](https://github.com/CoralShalmoni/CoralShalmoni.github.io)         | [repo](https://github.com/CoralShalmoni/python-course-assignments) | [Genetic Art Generator](https://github.com/CoralShalmoni/genetic-art-generator/) |  |
 | [Dana Brosh](https://danabrosh.github.io/)             | [repo](https://github.com/danabrosh/danabrosh.github.io)                 | [repo](https://github.com/danabrosh/python-assignments) |  |  |
 | [Elizabeth Popov](https://elizabethpopov.github.io/elizabethp.github.io/) | [repo](https://github.com/ElizabethPopov/elizabethp.github.io) | [repo](https://github.com/ElizabethPopov/python-course-assignments) |  |  |
 | [Emmanuel Amzallag](https://manu514972.github.io/)     | [repo](https://github.com/Manu514972/Manu514972.github.io)               | [repo](https://github.com/Manu514972/python-course-assignments/) |  |  |
