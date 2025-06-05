@@ -341,6 +341,20 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 Dead-line: June 8, 21:00
 
+## Day 8
+
+Covered [chapters](https://slides.code-maven.com/python/)
+
+* Modules
+* Regular Expressions part 1 and 2
+
+## Assignment (day 8)
+
+* Take one of your solutions to one of the earlier assignments. Split up the code into functions. Move the functions to a module. Submit the new script and the module.
+* [parse hours log file and create report](https://slides.code-maven.com/python/exercise-parse-log-file.html)
+
+Dead-line: June 15, 21:00
+
 ## Project
 
 For detailed desciption see above.
