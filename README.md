@@ -12,7 +12,7 @@ Course number: 20253072
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Aaron Finn](https://arifinn97.github.io/)             | [repo](https://github.com/AriFinn97/AriFinn97.github.io)                 | [repo](https://github.com/AriFinn97/Assignment) |  |  |
-| [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) |  |  |
+| [Abraham Zucker](https://avi-zucker.github.io/)        | [repo](https://github.com/Avi-Zucker/Avi-Zucker.github.io)               | [repo](https://github.com/Avi-Zucker/python-course-assignments) | [Time evolution of deterministic card games](https://github.com/Avi-Zucker/Time-evolution-of-deterministic-card-games) |  |
 | [Amit Paz](https://amit-paz7.github.io/)               | [repo](https://github.com/amit-paz7/amit-paz7.github.io)                 | [repo](https://github.com/amit-paz7/python-course-assignments) |  |  |
 | [Anastasia Paz](https://nastiaphub.github.io/)         | [repo](https://github.com/nastiaphub/nastiaphub.github.io)               | [repo](https://github.com/nastiaphub/python-course-assignments) |  |  |
 | [Anat Ben-Yaacov](https://anatby.github.io/)           | [repo](https://github.com/anatby/anatby.github.io)                       | [repo](https://github.com/anatby/python-course-assignments) |  |  |
