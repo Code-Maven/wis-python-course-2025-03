@@ -355,6 +355,22 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 Dead-line: June 15, 21:00
 
+## Day 9
+
+Covered [chapters](https://slides.code-maven.com/python/)
+* Regular Expressions part 3
+* math, sys, os, pathlib, shutil, time, datetime, subprocess, argparse
+* Testing Demo
+* A few words about classical machine learning.
+
+## Assignment (day 9)
+
+* Take one your earler solutions. Convert the code into functions and move the functions to a separate module.
+* Write documentation for the non-I/O functions with examples and run doctest.
+* Write tests using assert and use `pytest` to run the tests.
+
+Dead-line: June 22, 21:00
+
 ## Project
 
 For detailed desciption see above.
