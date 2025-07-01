@@ -318,8 +318,8 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 ## Assignment (day 6)
 
-* [ROT13 of a file](https://slides.code-maven.com/python/exercise-rot13-files.html)
-* [Count digits](https://slides.code-maven.com/python/exercise-count-digits-in-file.html)
+* [ROT13 of a file](https://slides.code-maven.com/python/exercise-rot13-files.html) moved [here](https://slides.code-maven.com/python-programming/files/exercise-rot13-files)
+* [Count digits](https://slides.code-maven.com/python/exercise-count-digits-in-file.html) moved [here](https://slides.code-maven.com/python-programming/files/exercise-count-digits-in-file)
 * [Color selector](https://slides.code-maven.com/python/exercise-file-color-selector.html) based on [this](https://slides.code-maven.com/python/exercise-menu.html)
 
 
@@ -327,7 +327,7 @@ Dead-line: June 4, 21:00
 
 ## Day 7
 
-Covered [chapters](https://slides.code-maven.com/python/) moved [here](
+Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-programming/)
 
 * Dictionaries
 * Sets
