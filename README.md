@@ -327,7 +327,7 @@ Dead-line: June 4, 21:00
 
 ## Day 7
 
-Covered [chapters](https://slides.code-maven.com/python/)
+Covered [chapters](https://slides.code-maven.com/python/) moved [here](
 
 * Dictionaries
 * Sets
@@ -336,15 +336,15 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 ## Assignment (day 7)
 
-* [count words from a file](https://slides.code-maven.com/python/exercise-count-words-in-file.html)
-* [Count Amino Acids](https://slides.code-maven.com/python/exercise-count-amino-acids.html)
-* [Refactor previous solutions to use functions](https://slides.code-maven.com/python/exercise-refactor-previous-solutions-to-us-functions.html)
+* [count words from a file](https://slides.code-maven.com/python/exercise-count-words-in-file.html) moved [here](https://slides.code-maven.com/python-programming/dictionary/exercise-count-words-in-file)
+* [Count Amino Acids](https://slides.code-maven.com/python/exercise-count-amino-acids.html) moved [here](https://slides.code-maven.com/python-programming/dictionary/exercise-count-amino-acids)
+* [Refactor previous solutions to use functions](https://slides.code-maven.com/python/exercise-refactor-previous-solutions-to-us-functions.html) moved [here](https://slides.code-maven.com/python-programming/functions/exercise-refactor-previous-solutions-to-us-functions)
 
 Dead-line: June 8, 21:00
 
 ## Day 8
 
-Covered [chapters](https://slides.code-maven.com/python/)
+Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-regular-expressions/)
 
 * Modules
 * Regular Expressions part 1 and 2
@@ -352,13 +352,13 @@ Covered [chapters](https://slides.code-maven.com/python/)
 ## Assignment (day 8)
 
 * Take one of your solutions to one of the earlier assignments. Split up the code into functions. Move the functions to a module. Submit the new script and the module.
-* [parse hours log file and create report](https://slides.code-maven.com/python/exercise-parse-log-file.html)
+* [parse hours log file and create report](https://slides.code-maven.com/python/exercise-parse-log-file.html) moved [here](https://slides.code-maven.com/python-regular-expressions/exercise-parse-log-file)
 
 Dead-line: June 15, 21:00
 
 ## Day 9
 
-Covered [chapters](https://slides.code-maven.com/python/)
+Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-regular-expressions/)
 * Regular Expressions part 3
 * math, sys, os, pathlib, shutil, time, datetime, subprocess, argparse
 * Testing Demo
