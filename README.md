@@ -45,8 +45,7 @@ Course number: 20253072
 | [Sophie Piwko](https://sophiepiwko.github.io/)         | [repo](https://github.com/SophiePiwko/SophiePiwko.github.io)             | [repo](https://github.com/SophiePiwko/python-course-assignments) | [Preprocessing of Proteomic Data](https://github.com/SophiePiwko/Preprocessing-of-Proteomic-Data) |  |
 | [Sun Terletsky](https://sunterlet.github.io/)          | [repo](https://github.com/sunterlet/sunterlet.github.io)                 | [repo](https://github.com/sunterlet/python-course-assignments) | [Trajectory Visualization for Virtual‑Arena Experiments](https://github.com/sunterlet/visualize_navigation_trajectories) |  |
 | [Uri Monsonego](https://urimons.github.io/)            | [repo](https://github.com/urimons/urimons.github.io)                     | [repo](https://github.com/urimons/python-course-assignments/) |  |  |
-| [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) | [Gene Interactions and Machinary
-](https://github.com/yotamyan/Factor-VIII) |  |
+| [Yotam Yaniv](https://yotamyan.github.io/)             | [repo](https://github.com/yotamyan/yotamyan.github.io)                   | [repo](https://github.com/yotamyan/python-course-assignments) | [Gene Interactions and Machinary](https://github.com/yotamyan/Factor-VIII) |  |
 | [Yovel Edri](https://yoveledri.github.io/)             | [repo](https://github.com/Yoveledri/Yoveledri.github.io)                 | [repo](https://github.com/Yoveledri/python-course-assignments) |  |  |
 
 <!--
