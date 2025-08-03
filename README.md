@@ -317,16 +317,16 @@ Covered [chapters](https://slides.code-maven.com/python/)
 
 ## Assignment (day 6)
 
-* [ROT13 of a file](https://slides.code-maven.com/python/exercise-rot13-files.html) moved [here](https://slides.code-maven.com/python-programming/files/exercise-rot13-files)
-* [Count digits](https://slides.code-maven.com/python/exercise-count-digits-in-file.html) moved [here](https://slides.code-maven.com/python-programming/files/exercise-count-digits-in-file)
-* [Color selector](https://slides.code-maven.com/python/exercise-file-color-selector.html) based on [this](https://slides.code-maven.com/python/exercise-menu.html)
+* [ROT13 of a file](https://slides.code-maven.com/python/exercise-rot13-files.html)
+* [Count digits](https://slides.code-maven.com/python/exercise-count-digits-in-file.html)
+* [Color selector](https://slides.code-maven.com/python/exercise-file-color-selector.html)
 
 
 Dead-line: June 4, 21:00
 
 ## Day 7
 
-Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-programming/)
+Covered [chapters](https://slides.code-maven.com/python/)
 
 * Dictionaries
 * Sets
@@ -335,15 +335,15 @@ Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://s
 
 ## Assignment (day 7)
 
-* [count words from a file](https://slides.code-maven.com/python/exercise-count-words-in-file.html) moved [here](https://slides.code-maven.com/python-programming/dictionary/exercise-count-words-in-file)
-* [Count Amino Acids](https://slides.code-maven.com/python/exercise-count-amino-acids.html) moved [here](https://slides.code-maven.com/python-programming/dictionary/exercise-count-amino-acids)
-* [Refactor previous solutions to use functions](https://slides.code-maven.com/python/exercise-refactor-previous-solutions-to-us-functions.html) moved [here](https://slides.code-maven.com/python-programming/functions/exercise-refactor-previous-solutions-to-us-functions)
+* [count words from a file](https://slides.code-maven.com/python/exercise-count-words-in-file.html)
+* [Count Amino Acids](https://slides.code-maven.com/python/exercise-count-amino-acids.html)
+* [Refactor previous solutions to use functions](https://slides.code-maven.com/python/exercise-refactor-previous-solutions-to-us-functions.html)
 
 Dead-line: June 8, 21:00
 
 ## Day 8
 
-Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-regular-expressions/)
+Covered [chapters](https://slides.code-maven.com/python/)
 
 * Modules
 * Regular Expressions part 1 and 2
@@ -351,13 +351,13 @@ Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://s
 ## Assignment (day 8)
 
 * Take one of your solutions to one of the earlier assignments. Split up the code into functions. Move the functions to a module. Submit the new script and the module.
-* [parse hours log file and create report](https://slides.code-maven.com/python/exercise-parse-log-file.html) moved [here](https://slides.code-maven.com/python-regular-expressions/exercise-parse-log-file)
+* [parse hours log file and create report](https://slides.code-maven.com/python/exercise-parse-log-file.html)
 
 Dead-line: June 15, 21:00
 
 ## Day 9
 
-Covered [chapters](https://slides.code-maven.com/python/) moved [here](https://slides.code-maven.com/python-regular-expressions/)
+Covered [chapters](https://slides.code-maven.com/python/)
 * Regular Expressions part 3
 * math, sys, os, pathlib, shutil, time, datetime, subprocess, argparse
 * Testing Demo
